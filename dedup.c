@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*
  * Copyright (C) 2015 Fujitsu.  All rights reserved.
  *
@@ -956,8 +956,5 @@ int btrfs_dedup_calc_hash(struct btrfs_root *root, struct inode *inode,
 	kfree(data);
 	return ret;
 }
-=======
-sfcosdfjcan
-efcnlsrkfc;drnfc
-afcsflck;as'fclna
->>>>>>> 07352707c12fd9294d2a100dfd0160a5a11a6fdd
+
+
